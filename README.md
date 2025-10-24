@@ -13,7 +13,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 - 🎨 Modern and Clean Design
 - 🤖 AI-Powered Chat Interface
 - 📱 Fully Responsive
-- 🌙 Dark/Light Mode
+- 🌙 Light Mode
 - ⚡ Fast Performance
 - 🎯 SEO Optimized
 - 📊 Project Showcase
