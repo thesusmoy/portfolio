@@ -212,8 +212,8 @@
     },
     "internship": {
         "seeking": true,
-        "duration": "6 months",
-        "startDate": "February 2025",
+        "duration": "",
+        "startDate": "2025",
         "preferredLocation": "Remote or On-site",
         "focusAreas": ["Full-stack Development", "Backend Development", "Machine Learning", "AI Integration"],
         "availability": "Available for immediate start",

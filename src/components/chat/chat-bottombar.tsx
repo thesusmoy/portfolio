@@ -1,4 +1,3 @@
-// src/components/chat/chat-bottombar.tsx
 'use client';
 
 import { ChatRequestOptions } from 'ai';
