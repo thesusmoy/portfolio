@@ -1,0 +1,321 @@
+{
+    "personal": {
+        "name": "Susmoy Debnath",
+        "age": 24,
+        "location": "Dhaka, Bangladesh",
+        "title": "Software Engineer",
+        "email": "susmoy.debnath@icloud.com",
+        "phone": "+880 1709-510156",
+        "handle": "@thesusmoy",
+        "bio": "Hey 👋\nI'm Susmoy, a passionate Software Engineer specializing in System Design, DevOps, and Cloud technologies. Seeking an entry-level role to build hands-on expertise and work toward my long-term goal of becoming a Solutions Architect.",
+        "avatar": "/profile.png",
+        "fallbackAvatar": "/avatar.png"
+    },
+    "education": {
+        "current": {
+            "degree": "BBA in Accounting",
+            "institution": "National University of Bangladesh",
+            "duration": "2022 - 2026",
+            "cgpa": "3/3.0",
+            "graduationDate": "Expected 2026"
+        },
+        "previous": {
+            "degree": "Higher Secondary Certificate (Science)",
+            "institution": "Dhanbari Government College",
+            "duration": "2021",
+            "gpa": "4.67/5.0",
+            "completionDate": "February 2020"
+        },
+        "achievements": [
+            "Author, The Entrepreneur’s Blueprint: A Guide to Building and Growing Your Business – Amazon, Nov 16, 2024",
+            "Certified by Wikipedia (Amar Ekushey Article Competition 2022)"
+        ]
+    },
+    "experience": [
+        {
+            "company": "Itransition",
+            "position": "Software Engineer",
+            "type": "Internship",
+            "duration": "July 2025",
+            "description": "Selected from 60,000+ applicants for intensive machine learning program. Completed 8 modules covering Supervised/Unsupervised Learning, Deep Neural Networks, Sequential Models, Reinforcement Learning, Generative AI, and Causal Inference. Gained hands-on experience with Amazon-scale ML systems and recommendation engines.",
+            "technologies": [
+                "JavaScript",
+                "React",
+                "Next.js",
+                "Node.js",
+                "Express.js",
+                "TypeScript",
+                "Python",
+                "SQL",
+                "Docker",
+                "Postman",
+                "AWS",
+                "Git",
+                "Jira",
+                "OOP",
+                "Data Structures & Algorithms"
+            ]
+        }
+    ],
+    "skills": {
+        "programming": ["C/C++", "Python", "JavaScript", "TypeScript", "SQL", "Go"],
+        "ml_ai": [
+            "Scikit-learn",
+            "TensorFlow",
+            "OpenCV",
+            "Pandas",
+            "NumPy",
+            "LangChain",
+            "LangGraph",
+            "OpenAI API",
+            "LLM Agents",
+            "ChatGPT Integration"
+        ],
+        "web_development": [
+            "React.js",
+            "Next.js",
+            "Express.js",
+            "NestJS",
+            "Django",
+            "gRPC",
+            "GraphQL",
+            "REST APIs",
+            "Tailwind CSS",
+            "Node.js",
+            "Fiber"
+        ],
+        "databases": ["PostgreSQL", "MongoDB", "Firebase", "MySQL"],
+        "devops_cloud": [
+            "AWS (EC2/S3)",
+            "GCP",
+            "Docker",
+            "Jenkins",
+            "Ansible",
+            "Datadog",
+            "Terraform",
+            "Git",
+            "GitHub",
+            "CI/CD",
+            "k6",
+            "SonarQube"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Team Leadership",
+            "Project Management",
+            "Communication",
+            "Learning Agility",
+            "Innovation"
+        ]
+    },
+    "certifications": [
+        {
+            "name": "Machine Learning Specialization",
+            "issuer": "Stanford University (Coursera)",
+            "year": "2024"
+        },
+        {
+            "name": "Meta Front-End Developer Professional Certificate",
+            "issuer": "Meta (Coursera)",
+            "year": "2024"
+        },
+        {
+            "name": "Meta Backend Developer Professional Certificate",
+            "issuer": "Meta (Coursera)",
+            "year": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Google",
+            "category": "Search Engine",
+            "description": "Built customizable portfolio platform using Next.js, TypeScript, and Google Gemini API. Implemented AI-driven content generation and resume parsing for automated portfolio creation. Features include dynamic chatbot, responsive design, and Vercel deployment.",
+            "techStack": ["Next.js", "TypeScript", "Google Gemini API", "React", "Tailwind CSS", "Vercel"],
+            "date": "April 2025",
+            "status": "Completed",
+            "featured": true,
+            "links": [
+                {
+                    "name": "Live Site",
+                    "url": "https://google.com"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/google"
+                }
+            ],
+            "images": [
+                {
+                    "src": "https://static.dezeen.com/uploads/2025/05/sq-google-g-logo-update_dezeen_2364_col_0.jpg",
+                    "alt": "Google"
+                }
+            ]
+        },
+        {
+            "title": "OpenAI",
+            "category": "AI Research",
+            "description": "Built production-ready ML inference API with FastAPI and Pydantic validation. Dockerized application with comprehensive monitoring endpoints and Swagger documentation. Designed scalable architecture following industry best practices for input validation and error handling.",
+            "techStack": ["Python", "FastAPI", "Pydantic", "Docker", "Machine Learning", "Swagger", "Uvicorn"],
+            "date": "September 2025",
+            "status": "Completed",
+            "featured": true,
+            "links": [
+                {
+                    "name": "Live Site",
+                    "url": "https://github.com/openai"
+                },
+                {
+                    "name": "Github",
+                    "url": "https://github.com/openai"
+                }
+            ],
+            "images": [
+                {
+                    "src": "https://www.svgrepo.com/show/306500/openai.svg",
+                    "alt": "OpenAI"
+                }
+            ]
+        },
+        {
+            "title": "Meta",
+            "category": "Technology",
+            "description": "Built customizable portfolio platform using Next.js, TypeScript, and Google Gemini API. Implemented AI-driven content generation and resume parsing for automated portfolio creation. Features include dynamic chatbot, responsive design, and Vercel deployment.",
+            "techStack": ["Next.js", "TypeScript", "Google Gemini API", "React", "Tailwind CSS", "Vercel"],
+            "date": "April 2025",
+            "status": "Completed",
+            "featured": true,
+            "links": [
+                {
+                    "name": "Live Site",
+                    "url": "https://about.meta.com"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "https://github.com/meta"
+                }
+            ],
+            "images": [
+                {
+                    "src": "https://www.victoryxr.com/wp-content/uploads/2023/04/Meta-Logo-1024x576.png.webp",
+                    "alt": "Meta"
+                }
+            ]
+        }
+    ],
+    "social": {
+        "linkedin": "https://linkedin.com/in/thesusmoy",
+        "github": "https://github.com/thesusmoy",
+        "twitter": "https://x.com/thesusmoy",
+        "kaggle": "https://www.facebook.com/thesusmoy",
+        "leetcode": "https://leetcode.com/u/thesusmoy/",
+        "portfolio": ""
+    },
+    "internship": {
+        "seeking": true,
+        "duration": "6 months",
+        "startDate": "February 2025",
+        "preferredLocation": "Remote or On-site",
+        "focusAreas": ["Full-stack Development", "Backend Development", "Machine Learning", "AI Integration"],
+        "availability": "Available for immediate start",
+        "workStyle": "Fast learner, team player, problem solver with hands-on experience in production systems",
+        "goals": "Join an innovative team building AI-powered solutions. I want to contribute to meaningful projects while growing my skills in enterprise-level development and scaling ML systems."
+    },
+    "personality": {
+        "traits": ["passionate", "curious", "determined", "collaborative", "results-driven"],
+        "interests": [
+            "AI/ML",
+            "DevOps",
+            "Cloud",
+            "Web Development",
+            "Open Source",
+            "Hackathons",
+            "Automation",
+            "Research"
+        ],
+        "funFacts": ["Participated in DevOne Hackathon 2025"],
+        "workingStyle": "I move fast, learn faster, and love tackling challenging problems with scalable solutions",
+        "motivation": "Building technology that makes a real impact on people's lives through AI and automation"
+    },
+    "resume": {
+        "title": "Susmoy Debnath - Resume",
+        "description": "Junior Software Engineer",
+        "fileType": "PDF",
+        "lastUpdated": "October 2025",
+        "fileSize": "61 KB",
+        "downloadUrl": "/resume/Junior Software Engineer_01_Susmoy Debnath.pdf"
+    },
+    "chatbot": {
+        "name": "Susmoy",
+        "personality": "casual, enthusiastic, tech-savvy",
+        "tone": "friendly and conversational",
+        "language": "english",
+        "responseStyle": "short and interactive",
+        "useEmojis": true,
+        "topics": [
+            "projects",
+            "skills",
+            "experience",
+            "internship",
+            "contact",
+            "fun_facts",
+            "certifications",
+            "achievements"
+        ]
+    },
+    "presetQuestions": {
+        "me": [
+            "Who are you?",
+            "Tell me about yourself",
+            "What's your background?",
+            "What are your passions?",
+            "How did you get started in tech?",
+            "Where do you see yourself in 5 years?"
+        ],
+        "professional": [
+            "What are your skills?",
+            "Can I see your resume?",
+            "What's your experience?",
+            "Are you looking for internships?",
+            "What makes you a valuable team member?",
+            "Tell me about your Amazon ML Summer School experience",
+            "What certifications do you have?",
+            "Why should I hire you?",
+            "What's your educational background?",
+            "How was your experience as a freelancer?"
+        ],
+        "projects": [
+            "What projects are you most proud of?",
+            "Tell me about your AI projects",
+            "What are your recent projects?",
+            "Tell me about your best project",
+            "What are you working on?",
+            "Show me your machine learning projects"
+        ],
+        "achievements": [
+            "What are your major achievements?",
+            "Tell me about Smart India Hackathon",
+            "What awards have you won?",
+            "Tell me about your Amazon selection"
+        ],
+        "contact": [
+            "How can I reach you?",
+            "How can I contact you?",
+            "What's your email?",
+            "Where can I find you online?",
+            "What kind of project would make you say 'yes' immediately?",
+            "Where are you located?"
+        ],
+        "fun": [
+            "What are your hobbies?",
+            "Tell me something interesting about you",
+            "What motivates you?",
+            "What's a fun fact about you?"
+        ]
+    },
+    "meta": {
+        "configVersion": "1.0",
+        "lastUpdated": "2025-10-24",
+        "generatedBy": "Susmoy Debnath",
+        "description": "Portfolio configuration for Susmoy Debnath's personal website and chatbot."
+    }
+}
